@@ -1,2 +1,2 @@
-termux-torch on
+termux-tts-speak hacked
 ls
